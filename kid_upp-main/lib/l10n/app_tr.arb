@@ -1,0 +1,11 @@
+{
+    "language": "Türkçe",
+    "username": "Kullanıcı Adı",
+    "password": "Şifre",
+    "forgotPassword": "Şifremi Unuttum",
+    "logIn": "Giriş Yap",
+    "pageNotFound": "Sayfa bulunamadı",
+    "invalidMailPassword": "Geçersiz e-mail veya şifre",
+    "userNotFound": "Kullanıcı bulunamadı",
+    "lessonPlan": "Ders Programı" 
+}

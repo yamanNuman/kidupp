@@ -1,0 +1,11 @@
+{
+    "language": "Deutsch",
+    "username": "Nutzername",
+    "password": "Passwort",
+    "forgotPassword": "Passwort Vergessen?",
+    "logIn": "Einloggen",
+    "pageNotFound": "Seite nicht gefunden",
+    "invalidMailPassword": "Ungültige e-mail und passwort",
+    "userNotFound": "Benutzer nicht gefunden",
+    "lessonPlan": "Lehrplan"    
+}

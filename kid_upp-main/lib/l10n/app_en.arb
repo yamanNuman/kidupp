@@ -1,0 +1,38 @@
+{
+    "language": "English",
+    "@language": {
+      "description": "The current language"
+    },
+    "username": "Username",
+    "@username": {
+        "description": "Username"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Password"
+    },
+    "forgotPassword": "Forgot Password?",
+    "@forgotPassword": {
+        "description": "Forgot Password?"
+    },
+    "logIn": "Login",
+    "@logIn": {
+        "description": "Login"
+    },
+    "pageNotFound": "Page not found",
+    "@pageNotFound": {
+        "description": "Page not found"
+    },
+    "invalidMailPassword": "Invalid email and password",
+    "@invalidMailPassword": {
+        "description": "Invalid email and password"
+    },
+    "userNotFound": "User not found",
+    "@userNotFound": {
+        "description": "User not found"
+    },
+    "lessonPlan": "Lesson Plan",
+    "@lessonPlan": {
+        "description": "Lesson Plan"
+    }  
+}
